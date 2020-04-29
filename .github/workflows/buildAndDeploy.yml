@@ -17,7 +17,7 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - name: checkout
-      uses: actions/checkout@master #将代码拷贝到虚拟机中
+      uses: actions/checkout@master #将代码拷贝到虚拟机中1
 
     - name: buildAndDeploy
       uses: JamesIves/github-pages-deploy-action@master
