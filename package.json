@@ -2,6 +2,7 @@
   "name": "vue_pro_engineer",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/levi-li-yi/vue_pro_engineer.git",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
