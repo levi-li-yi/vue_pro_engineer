@@ -266,7 +266,7 @@ export default {
 	          graph.setItemState(node, 'active', false);
 					})
 				}
-			})
+			});
 			const graph = new G6.Graph({
 				container: 'g6_self4',
 				modes: {
