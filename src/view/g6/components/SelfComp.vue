@@ -279,7 +279,7 @@ export default {
             fill: '#d3adf7'
           }
         },
-			})
+			});
 			graph.data(this.obj4);
 			graph.render()
 		}
